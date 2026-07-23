@@ -1,0 +1,18 @@
+#List datastructure are mutable
+#List is called as array in another language
+#ingredients to make chai
+ingredients=["milk","tea leaf","water","sugar"]
+ingredients.append("jaggery")
+print(f"chai making ingredients are {ingredients}")
+ingredients.remove("jaggery")
+print(f"chai making ingredients are {ingredients}")
+
+chai_ingredients=["milk","water"]
+spice_mix=["ginger","cardamom"]
+chai_ingredients.extend(spice_mix)
+print(chai_ingredients)
+
+last_added=chai_ingredients.pop()
+print(f"last added {last_added}")
+chai_ingredients.reverse()
+print(f"reverse={chai_ingredients}")
