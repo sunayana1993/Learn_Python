@@ -16,3 +16,7 @@ last_added=chai_ingredients.pop()
 print(f"last added {last_added}")
 chai_ingredients.reverse()
 print(f"reverse={chai_ingredients}")
+
+sugar_level=[1,2,3,4]
+print(f"sugar level max: {max(sugar_level)}")
+print(f"sugar level min: {min(sugar_level)}")
