@@ -20,3 +20,11 @@ print(f"reverse={chai_ingredients}")
 sugar_level=[1,2,3,4]
 print(f"sugar level max: {max(sugar_level)}")
 print(f"sugar level min: {min(sugar_level)}")
+
+base_liquid=["water","milk"]*3
+print(f"output: {base_liquid}")
+
+raw_spice_data=bytearray(b"CINNAMON")
+print(f"raw_spice_data: {raw_spice_data}")
+raw_spice_data=raw_spice_data.replace(b"CINN",b"CARD")
+print(f"raw_spice_data: {raw_spice_data}")
