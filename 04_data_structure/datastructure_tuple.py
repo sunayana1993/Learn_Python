@@ -8,3 +8,4 @@ cardamom,ginger=2,1
 print(cardamom,ginger)
 cardamom,ginger=ginger,cardamom
 print(cardamom,ginger)
+#python remembers the ratio, variable swapping
