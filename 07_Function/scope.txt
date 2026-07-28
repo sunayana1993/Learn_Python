@@ -1,0 +1,3 @@
+local scope- inside a function
+enclosing from outer function if nested
+global top level script
