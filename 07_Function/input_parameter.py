@@ -19,3 +19,13 @@ def special_chai(*ingredients,**masala):
 
 special_chai("milk","water",masala1="ginger",masala2="lemon")
 
+
+def addorder(order=[]):
+    order.append("Masala")
+    print(order)
+addorder()
+
+def addorder1(order=None):
+    print(order)
+
+addorder1()
