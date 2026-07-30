@@ -1,0 +1,11 @@
+comprehensions are concise way to create lists, dictionaries, sets or generators in python using single line of code
+filter item
+transform item
+create new collection
+flattened nested structure
+
+Why?
+cleaner code
+faster code
+
+tea_comprehension=[expression for item in iterable if condition]
