@@ -1,0 +1,6 @@
+yield
+
+>you save memory
+>don't want result immediately
+>you save memory
+>lazy evaluation
