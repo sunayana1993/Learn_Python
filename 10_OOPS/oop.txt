@@ -1,0 +1,2 @@
+class is blueprint
+object are instance of class
