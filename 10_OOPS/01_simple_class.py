@@ -7,3 +7,5 @@ print(type(abc))
 ginger_type=abc()
 print(type(ginger_type))
 print(type(ginger_type) is abc)
+#objects have some properties
+#Each object has its own entities, properties
