@@ -12,3 +12,4 @@ class D(B,A):
 
 cup=D()
 print(cup.label)
+print(D.__mro__)
